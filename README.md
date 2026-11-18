@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Wahyu Syarif Hidayatullah
 
-**Web & Mobile Developer · Android Engineer at PT. Phincon · Builder of [KuliTech](https://kulitech.my.id/)**
+**Web & Mobile Developer · Ex Android Engineer at MyTelkomsel · Builder of [KuliTech](https://kulitech.my.id/)**
 
 📍 South Jakarta, Indonesia &nbsp;•&nbsp; 🎓 Bangkit 2022 Graduate (Mobile Development)
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 📱 **Ex Android Engineer** at **PT. Phincon (Phintraco Consulting)**, working on mobile solutions that support better digital connectivity across Indonesia.
+- 📱 **Ex Android Engineer** at **MyTelkomsel**, working on mobile solutions that support better digital connectivity across Indonesia.
 - 🚀 **Founder & Developer** at [**KuliTech**](https://kulitech.my.id/), crafting modern **Android (Native & Flutter)** applications and high-performance **websites** for SMEs, founders, and businesses.
 - 🎓 **Bangkit Academy 2022 Graduate** (Android / Kotlin Mobile Development track, 900+ learning hours).
 - 💡 Passionate about clean mobile architecture, responsive web interfaces, and turning practical ideas into reliable products.
@@ -60,12 +60,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyush04&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahyush04&theme=radical" alt="Profile Details" />
-</p>
 ---
 
 ## 📬 Contact & Socials
